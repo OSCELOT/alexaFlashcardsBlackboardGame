@@ -1,0 +1,21 @@
+AnswerIntent the answer is {Answer} 
+AnswerIntent my answer is {Answer} 
+AnswerIntent is it {Answer} 
+AnswerIntent {Answer} is my answer 
+AnswerOnlyIntent {Answer} 
+DontKnowIntent I don't know
+DontKnowIntent You tell me
+DontKnowIntent No idea
+DontKnowIntent don't know
+DontKnowIntent next
+AMAZON.StartOverIntent start game 
+AMAZON.StartOverIntent new game 
+AMAZON.StartOverIntent start 
+AMAZON.StartOverIntent start new game
+AMAZON.StartOverIntent start a new game
+AMAZON.StopIntent I'm done
+AMAZON.StopIntent Stop
+AMAZON.StopIntent Finish
+AMAZON.StopIntent Thank you
+
+
