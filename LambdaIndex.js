@@ -402,3 +402,5 @@ function buildResponse(sessionAttributes, speechletResponse) {
         response: speechletResponse
     };
 }
+
+//arn:aws:lambda:us-east-1:653863024683:function:BlackboardLearn
