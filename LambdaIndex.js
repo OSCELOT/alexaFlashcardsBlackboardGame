@@ -126,7 +126,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 // ------- Skill specific business logic -------
 
 var ANSWER_COUNT = 1;
-var GAME_LENGTH = 5;
+var GAME_LENGTH = 2;
 // Be sure to change this for your skill.
 var CARD_TITLE = "Blackboard Game";
 
